@@ -1,2 +1,2 @@
 # ARB-Calculator
-Simple python scrip for helping with ARB calculations.
+Simple python script for helping with ARB calculations.
